@@ -1,6 +1,6 @@
 prometheus-client
 aixblock-ml
-aixblock-sdk==0.0.5
+aixblock-sdk
 aixblock-tools
 tensorboardX==1.9
 # gradio==3.50
